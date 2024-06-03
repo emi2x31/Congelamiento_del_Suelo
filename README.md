@@ -1,6 +1,6 @@
 
 
-
+![Congelamiento del Suelo](https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/reports/figures/Front.png)
 
 titulo
 ------
