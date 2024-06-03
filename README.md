@@ -1,7 +1,19 @@
-{{cookiecutter.project_name}}
-==============================
 
-{{cookiecutter.description}}
+titulo
+
+------------
+
+objetivos
+
+------------
+
+contexto
+
+------------
+
+pregtuntas
+
+------------
 
 Project Organization
 ------------
