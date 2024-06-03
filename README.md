@@ -10,8 +10,11 @@ Bloque: Aprendizaje Automatico
 Alumno: ORTEGA, Emilio
 
 •	Proporcionar una descripción detallada de su proyecto de Aprendizaje Automático.  Sobre el Tema: Predecir si el suelo está por congelarse.
+
 •	Formular claramente el objetivo del trabajo, indicando qué problema específico de su interés abordará con el modelo.
+
 •	Proporcionar detalles sobre el contexto en el que se encuentra el problema y por qué es relevante.
+
 •	Defina claramente las preguntas de investigación o hipótesis que desea responder a través del aprendizaje automático.
 
 -----------
