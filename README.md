@@ -2,20 +2,44 @@
 
 ![Congelamiento del Suelo](https://github.com/emi2x31/Congelamiento_del_Suelo/blob/main/reports/figures/calles%20congeladas.jpg)
 
-titulo
-------
+
+Predecir si el suelo está por congelarse en Ushuaia, Tierra del Fuego, Argentina
+---------
+Bloque: Aprendizaje Automatico
+Alumno: ORTEGA, Emilio
+
+•	Proporcionar una descripción detallada de su proyecto de Aprendizaje Automático.  Sobre el Tema: Predecir si el suelo está por congelarse.
+•	Formular claramente el objetivo del trabajo, indicando qué problema específico de su interés abordará con el modelo.
+•	Proporcionar detalles sobre el contexto en el que se encuentra el problema y por qué es relevante.
+•	Defina claramente las preguntas de investigación o hipótesis que desea responder a través del aprendizaje automático.
+
+-----------
+Descripción y Formulación del Objetivo
+------------
+Tema: Predecir si el suelo está por congelarse
+------------
+
+Objetivo del Proyecto:
+-------------
+El objetivo principal de este proyecto es desarrollar un modelo de aprendizaje automático capaz de predecir si el suelo está por congelarse en una ubicación específica. Este modelo será entrenado utilizando datos históricos de variables meteorológicas y condiciones del suelo para identificar patrones y características asociadas con el congelamiento del suelo.
 
 ------------
 
-objetivos
+Contexto y Relevancia:
+-----------
+El congelamiento del suelo es un fenómeno climático que puede tener impactos significativos en diversas industrias y sectores, incluyendo la agricultura, la construcción, el transporte y la seguridad pública. Poder predecir con anticipación cuándo es probable que ocurra el congelamiento del suelo puede permitir a las organizaciones y autoridades tomar medidas preventivas y preparativas, mitigando así los posibles efectos negativos.
 
 ------------
 
-contexto
+Preguntas de Investigación:
+-----------
+1. ¿Cuáles son las variables meteorológicas más relevantes para predecir el congelamiento del suelo?
+2. ¿Qué características del suelo influyen en su propensión al congelamiento?
+3. ¿Existen patrones estacionales o temporales en la ocurrencia del congelamiento del suelo?
+4. ¿Qué tipo de modelo de aprendizaje automático es más adecuado para este problema?
+5. ¿Cómo se pueden obtener y preprocesar los datos necesarios para entrenar el modelo de manera efectiva?
 
-------------
-
-pregtuntas
+Estas preguntas de investigación guiarán el desarrollo del proyecto de aprendizaje automático y ayudarán a identificar los factores clave que influyen en el congelamiento del suelo, así como la mejor manera de abordar el problema utilizando técnicas de aprendizaje automático.
 
 ------------
 
