@@ -7,7 +7,10 @@ Predecir si el suelo está por congelarse en Ushuaia, Tierra del Fuego, Argentin
 ---------
 ---------------
 Bloque: Aprendizaje Automatico
+
 Alumno: ORTEGA, Emilio
+
+--------------
 
 •	Proporcionar una descripción detallada de su proyecto de Aprendizaje Automático.  Sobre el Tema: Predecir si el suelo está por congelarse.
 
