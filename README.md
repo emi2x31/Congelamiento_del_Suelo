@@ -1,9 +1,40 @@
+![Congelamiento del Suelo](https://github.com/emi2x31/Congelamiento_del_Suelo/blob/main/reports/figures/calles%20congeladas2.jpg)
 
 
+Predecir si el suelo está por congelarse en Ushuaia, Tierra del Fuego, Argentina
+---------
+---------------
+Bloque: Aprendizaje Automatico
 
+Alumno: ORTEGA, Emilio
 
+--------------
 
-------
+•	Proporcionar una descripción detallada de su proyecto de Aprendizaje Automático.  Sobre el Tema: Predecir si el suelo está por congelarse.
+
+•	Formular claramente el objetivo del trabajo, indicando qué problema específico de su interés abordará con el modelo.
+
+•	Proporcionar detalles sobre el contexto en el que se encuentra el problema y por qué es relevante.
+
+•	Defina claramente las preguntas de investigación o hipótesis que desea responder a través del aprendizaje automático.
+
+-----------
+Descripción y Formulación del Objetivo
+------------
+Tema: Predecir si el suelo está por congelarse
+------------
+
+Objetivo del Proyecto:
+-------------
+El objetivo principal de este proyecto es desarrollar un modelo de aprendizaje automático capaz de predecir si el suelo está por congelarse en una ubicación específica. Este modelo será entrenado utilizando datos históricos de variables meteorológicas y condiciones del suelo para identificar patrones y características asociadas con el congelamiento del suelo.
+
+------------
+
+Contexto y Relevancia:
+-----------
+El congelamiento del suelo es un fenómeno climático que puede tener impactos significativos en diversas industrias y sectores, incluyendo la agricultura, la construcción, el transporte y la seguridad pública. Poder predecir con anticipación cuándo es probable que ocurra el congelamiento del suelo puede permitir a las organizaciones y autoridades tomar medidas preventivas y preparativas, mitigando así los posibles efectos negativos.
+
+------------
 
 Preguntas de Investigación:
 -----------
