@@ -70,7 +70,7 @@ Project Organization
 ------------
 
     ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
+    ├── Makefile           <- Makefile con comandos como `make data` o `make train`
     ├── README.md          <- El README del nivel superior para desarrolladores o usuarios de este proyecto.
     ├── data
     │   ├── external       <- Data from third party sources.
