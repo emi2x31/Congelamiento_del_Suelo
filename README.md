@@ -70,49 +70,49 @@ Organizacion del Proyecto
 ------------
 
 ├── LICENSE
-├── Makefile           <- Makefile con comandos como `make data` o `make train`
-├── README.md          <- El README del nivel superior para desarrolladores o usuarios de este proyecto.
+├── Makefile           <- Makefile with commands like `make data` or `make train`
+├── README.md          <- The top-level README for developers using this project.
 ├── data
-│   ├── external       <- Datos de fuentes externas.
-│   ├── interim        <- Datos intermedios que han sido transformados.
-│   ├── processed      <- Datasets finales para el modelado.
-│   └── raw            <- Datos crudos internos.
+│   ├── external       <- Data from third party sources.
+│   ├── interim        <- Intermediate data that has been transformed.
+│   ├── processed      <- The final, canonical data sets for modeling.
+│   └── raw            <- The original, immutable data dump.
 │
-├── docs               <- Un proyecto Sphinx por defecto, vea sphinx-doc.org para mas detalles.
+├── docs               <- A default Sphinx project; see sphinx-doc.org for details
 │
-├── models             <- Modelos entrenados, predicciones o resumenes de modelos.
+├── models             <- Trained and serialized models, model predictions, or model summaries
 │
-├── notebooks          <- Jupyter notebooks. La convencion para            		nombrarlos es un
-│                                    numero (para ordenarlos) seguido de las iniciales del creador y una descripcion corta 
-│                                   demilitada por "-" por ejemplo `1.0-jqp-exploracion-inicial-datos`.
+├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
+│                         the creator's initials, and a short `-` delimited description, e.g.
+│                         `1.0-jqp-initial-data-exploration`.
 │
-├── references         <- Diccionario de datos, manuales y otro material explicativo.
+├── references         <- Data dictionaries, manuals, and all other explanatory materials.
 │
-├── reports            <- Analisis generado como HTML, PDF, LaTeX, etc.
-│   └── figures        <- Graficos y figuras generadas para ser usadas en reportes.
+├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+│   └── figures        <- Generated graphics and figures to be used in reporting
 │
-├── requirements.txt   <- El archivo de requerimientos para reproducir el ambiente de analisis por ejemplo
-│                         generado con `pip freeze > requirements.txt`
+├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
+│                         generated with `pip freeze > requirements.txt`
 │
-├── setup.py           <- hace el proyecto instalable mediante pip  (pip install -e .) asi src puede ser importado. can be imported
-├── src                <- Codigo fuente usado en este proyecto.
-│   ├── __init__.py    <- Hace a src un modulo de Python
+├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
+├── src                <- Source code for use in this project.
+│   ├── __init__.py    <- Makes src a Python module
 │   │
-│   ├── data           <- Scripts para descargar o generar los datos.
-│   │   └── make_dataset.py
+│   ├── data           <- Scripts to download or generate data
+│   │   └── make_dataset.py
 │   │
-│   ├── features       <- Scripts para transformar los datos crudos en features para el modelado.
-│   │   └── build_features.py
+│   ├── features       <- Scripts to turn raw data into features for modeling
+│   │   └── build_features.py
 │   │
-│   ├── models         <- Scripts para entrenar modelos y luego hacer predicciones.
-│   │   ├── predict_model.py
-│   │   └── train_model.py
+│   ├── models         <- Scripts to train models and then use trained models to make
+│   │   │                 predictions
+│   │   ├── predict_model.py
+│   │   └── train_model.py
 │   │
-│   └── visualization  <- Scripts para crear visualizaciones orientadas a la exploracion de datos o a los resultados.
-│       └── visualize.py
+│   └── visualization  <- Scripts to create exploratory and results oriented visualizations
+│       └── visualize.py
 │
-└── tox.ini            <- archvi tox con ajustes para ejecutar tox; vea tox.readthedocs.io
-
+└── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 --------
 
