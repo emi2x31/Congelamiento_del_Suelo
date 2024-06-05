@@ -8,6 +8,7 @@ Descripción del Dataset
   • __Cantidad de Instancias:__ El dataset contiene datos horarios de la estación meteorológica Aeropuerto Ushuaia desde el 1 de enero de 2019 hasta el 31 de mayo de 2024.
 
   •	__Periodo Cubierto:__ 1977 días completos, correspondientes a 5 años y 5 meses.
+  
   •	__Frecuencia:__ 24 instancias por día (una por cada hora).
 
   •	__Total de Instancias:__ 47,448 registros.
