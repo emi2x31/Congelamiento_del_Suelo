@@ -38,24 +38,27 @@ Información Relevante Adicional
 
 Origen del Dataset
 -----------------
-  •	__Centro de Información Meteorológica (CIM).__
+   •	__Centro de Información Meteorológica (CIM).__
 
-  •	__Fuente:__ Servicio Meteorológico Nacional.
+   •	__Fuente:__ Servicio Meteorológico Nacional.
 
-  •	__Fecha de Adquisición:__ 3 de junio de 2024.
+   •	__Fecha de Adquisición:__ 3 de junio de 2024.
 
-  •	__Recopilación:__ Los datos fueron enviados por Nadia Cieslinski.
+   •	__Recopilación:__ Los datos fueron enviados por Nadia Cieslinski.
 
-  •	__Política de Datos:__ Comprendidos dentro de la Política de Datos Públicos, por lo que son gratuitos.
+   •	__Política de Datos:__ Comprendidos dentro de la Política de Datos Públicos, por lo que son gratuitos.
 
-  •	__Nota:__ La información básica en el archivo puede sufrir variaciones debido a procesos de consistencia y depuración.
+   •	__Nota:__ La información básica en el archivo puede sufrir variaciones debido a procesos de consistencia y depuración.
 
 -----------------
 Procesos de Preprocesamiento
 ----------------
 
 Para preparar este dataset para un proyecto de aprendizaje automático, se podrían considerar los siguientes pasos de preprocesamiento:
-  1.	__Manejo de Valores Faltantes:__ Imputar o eliminar registros con valores nulos.
-  2.	__Conversión de Tipos de Datos:__ Asegurar que todos los datos están en el formato correcto.
+     1.	__Manejo de Valores Faltantes:__ Imputar o eliminar registros con valores nulos.
+     2.	__Conversión de Tipos de Datos:__ Asegurar que todos los datos están en el formato correcto.
+     3.	__Normalización/Estandarización:__ Dependiendo del algoritmo a utilizar, podría ser necesario normalizar o estandarizar los datos.
+     4.	__Generación de Nuevas Características:__ Crear características adicionales como promedios móviles o variaciones diarias.
+
 
 -----------
