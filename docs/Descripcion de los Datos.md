@@ -1,8 +1,8 @@
 
 ## DESCRIPCION DEL CONJUNTO DE DATOS
 ------------
-## Descripción del Dataset
-
+Descripción del Dataset
+------------
 ------------
 Cantidad de Instancias: El dataset contiene datos horarios de la estación meteorológica Aeropuerto Ushuaia desde el 1 de enero de 2019 hasta el 31 de mayo de 2024.
 •	Periodo Cubierto: 1977 días completos, correspondientes a 5 años y 5 meses.
@@ -11,6 +11,7 @@ Cantidad de Instancias: El dataset contiene datos horarios de la estación meteo
 
 ------------
 Características (Columnas) y Tipos de Datos
+-----------
 
 1.	Fecha: Fecha del registro (tipo: fecha).
 2.	Hora: Hora del registro en formato 24 horas (tipo: entero).
@@ -24,6 +25,7 @@ Características (Columnas) y Tipos de Datos
 
 -------------
 Información Relevante Adicional
+------------
 
 •	Datos Preliminares: Los datos están etiquetados como "Datos Preliminares", lo que sugiere que pueden estar sujetos a cambios después de procesos de consistencia y depuración.
 •	Valores Faltantes: Existen valores faltantes o nulos en algunas columnas, especialmente en las relacionadas con la dirección y velocidad de ráfaga, así como en la precipitación.
@@ -37,6 +39,7 @@ Origen del Dataset
 
 -----------------
 Procesos de Preprocesamiento
+----------------
 
 Para preparar este dataset para un proyecto de aprendizaje automático, se podrían considerar los siguientes pasos de preprocesamiento:
 1.	Manejo de Valores Faltantes: Imputar o eliminar registros con valores nulos.
