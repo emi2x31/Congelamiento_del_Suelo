@@ -62,6 +62,11 @@ El proyecto seguirá los siguientes pasos:
 Conclusiones Esperadas:
 Se espera que este proyecto proporcione un modelo de aprendizaje automático efectivo y preciso para predecir el congelamiento del suelo, lo que podría tener importantes implicaciones en la planificación y toma de decisiones en una variedad de sectores. Además, se espera que este proyecto contribuya al conocimiento científico sobre los factores que influyen en el congelamiento del suelo y su predicción.
 
+[Colab del trabajo final](/notebooks/Trabajo_final_Aprendizaje_Automatico.ipynb)
+
+[Descripcion sobre origen y tipo de Datos](/docs/Descripcion de los Datos.md)
+
+[Informe Final del trabajo](/docs/info_final.rst)
 
 ------------
 Project Structure
