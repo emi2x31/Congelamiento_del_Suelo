@@ -70,6 +70,8 @@ Se espera que este proyecto proporcione un modelo de aprendizaje automático efe
 [!Warning](/docs/info_final.rst)
 
 [!Descripcion sobre origen y tipo de Datos](/docs/Descripcion de los Datos.md)
+[Descripción sobre origen y tipo de Datos](./docs/Descripcion%20de%20los%20Datos.md)
+
 
 [!Informe Final del trabajo](/docs/info_final.rst)
 
