@@ -64,14 +64,14 @@ Se espera que este proyecto proporcione un modelo de aprendizaje automático efe
 
 [!Colab del trabajo final](/notebooks/Trabajo_final_Aprendizaje_Automatico.ipynb)
 
-[!Note]
-[!Tip]
-[!Important]
-[!Warning]
+[!Note](/docs/info_final.rst)
+[!Tip](/docs/info_final.rst)
+[!Important](/docs/info_final.rst)
+[!Warning](/docs/info_final.rst)
 
-[Descripcion sobre origen y tipo de Datos](/docs/Descripcion de los Datos.md)
+[!Descripcion sobre origen y tipo de Datos](/docs/Descripcion de los Datos.md)
 
-[Informe Final del trabajo](/docs/info_final.rst)
+[!Informe Final del trabajo](/docs/info_final.rst)
 
 ------------
 Project Structure
