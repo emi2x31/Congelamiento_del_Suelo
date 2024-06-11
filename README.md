@@ -77,12 +77,9 @@ Se espera que este proyecto proporcione un modelo de aprendizaje automático efe
 
 <a href="./docs/Descripcion%20de%20los%20Datos.md" style="display:inline-block;background-color:#4CAF50;color:white;padding:10px 20px;text-align:center;text-decoration:none;border-radius:5px;">Descripción sobre origen y tipo de Datos</a>
 
-
+### [Descripción sobre origen y tipo de Datos](./docs/Descripcion%20de%20los%20Datos.md)
 [![Descripción sobre origen y tipo de Datos](https://github.com/emi2x31/Congelamiento_del_Suelo/blob/main/reports/figures/imagen5.png)](./docs/Descripcion%20de%20los%20Datos.md)
 
-
-
-### [Descripción sobre origen y tipo de Datos](./docs/Descripcion%20de%20los%20Datos.md)
 
 <div style="text-align:center;">
     <a href="./docs/Descripcion%20de%20los%20Datos.md" style="font-size:18px;color:#4CAF50;text-decoration:none;">Descripción sobre origen y tipo de Datos</a>
