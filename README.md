@@ -6,7 +6,7 @@ Predecir si el suelo está por congelarse en Ushuaia, Tierra del Fuego, Argentin
 ---------------
 Bloque: Aprendizaje Automatico
 
-Alumno: ORTEGA, Emilio
+Autor: ORTEGA, Emilio
 
 --------------
 
