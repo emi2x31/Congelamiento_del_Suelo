@@ -18,8 +18,9 @@ Autor: ORTEGA, Emilio
 
 •	Defina claramente las preguntas de investigación o hipótesis que desea responder a través del aprendizaje automático.
 
+💡
 
-# Indice 💡
+# Indice
 
 - [Objetivo del Proyecto](#Objetivo)
 - [Contexto y Relevancia](#Contexto)
