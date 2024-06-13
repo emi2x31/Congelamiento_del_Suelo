@@ -63,23 +63,15 @@ Conclusiones Esperadas:
 Se espera que este proyecto proporcione un modelo de aprendizaje automático efectivo y preciso para predecir el congelamiento del suelo, lo que podría tener importantes implicaciones en la planificación y toma de decisiones en una variedad de sectores. Además, se espera que este proyecto contribuya al conocimiento científico sobre los factores que influyen en el congelamiento del suelo y su predicción.
 
 
+# Ayuda
 
-
-
-
-
-<a href="./docs/Descripcion%20de%20los%20Datos.md" style="display:inline-block;background-color:#4CAF50;color:white;padding:10px 20px;text-align:center;text-decoration:none;border-radius:5px;">Descripción sobre origen y tipo de Datos</a>
-
-
-# Cookiecutte
-
-- [Documentation](./docs/Descripcion%20de%20los%20Datos.md)
+- [Descripción sobre origen y tipo de Datos](./docs/Descripcion%20de%20los%20Datos.md)
 - [GitHub Congelamiento del Suelo](https://github.com/emi2x31/Congelamiento_del_Suelo)
 - [Colab del trabajo final](/notebooks/Trabajo_final_Aprendizaje_Automatico.ipynb)
-- [Dataset](https://pypi.org/project/cookiecutter/)
+- [Dataset](https://github.com/emi2x31/Congelamiento_del_Suelo/tree/main/data/external)
 - [License (BSD)](https://github.com/cookiecutter/cookiecutter/blob/main/LICENSE)
 - [Descripción sobre origen y tipo de Datos](./docs/Descripcion%20de%20los%20Datos.md)
-  [!Informe Final del trabajo](/docs/info_final.rst)
+- [!Informe Final del trabajo](/docs/info_final.rst)
 
 
 ------------
