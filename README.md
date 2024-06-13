@@ -68,9 +68,9 @@ Se espera que este proyecto proporcione un modelo de aprendizaje automático efe
 - [Descripción sobre origen y tipo de Datos](./docs/Descripcion%20de%20los%20Datos.md)
 - [GitHub Congelamiento del Suelo](https://github.com/emi2x31/Congelamiento_del_Suelo)
 - [Colab del trabajo final](/notebooks/Trabajo_final_Aprendizaje_Automatico.ipynb)
-- [Dataset](https://github.com/emi2x31/Congelamiento_del_Suelo/tree/main/data/external)
-- [License (BSD)](https://github.com/cookiecutter/cookiecutter/blob/main/LICENSE)
-- [Descripción sobre origen y tipo de Datos](./docs/Descripcion%20de%20los%20Datos.md)
+- [Dataset Utilizados](https://github.com/emi2x31/Congelamiento_del_Suelo/tree/main/data/external)
+- [Libre)](https://github.com/cookiecutter/cookiecutter/blob/main/LICENSE)
+- [libre](./docs/Descripcion%20de%20los%20Datos.md)
 - [!Informe Final del trabajo](/docs/info_final.rst)
 
 
