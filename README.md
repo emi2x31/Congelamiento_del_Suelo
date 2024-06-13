@@ -18,28 +18,30 @@ Autor: ORTEGA, Emilio
 
 •	Defina claramente las preguntas de investigación o hipótesis que desea responder a través del aprendizaje automático.
 
------------
-Descripción y Formulación del Objetivo
-------------
+
 Tema: Predecir si el suelo está por congelarse
 ------------
 
-# Objetivo del Proyecto:
+# Objetivo:
 -------------
 El objetivo principal de este proyecto es desarrollar un modelo de aprendizaje automático capaz de predecir si el suelo está por congelarse en una ubicación específica. Este modelo será entrenado utilizando datos históricos de variables meteorológicas y condiciones del suelo para identificar patrones y características asociadas con el congelamiento del suelo.
 
 
-**[⬆ Volver a la Tabla de contenidos](#Tabla)**
+**[⬆ Volver al Indice](#Indice)**
+
 ------------
 
-# Contexto y Relevancia:
+# Contexto:
 -----------
 El congelamiento del suelo es un fenómeno climático que puede tener impactos significativos en diversas industrias y sectores, incluyendo la agricultura, la construcción, el transporte y la seguridad pública. Poder predecir con anticipación cuándo es probable que ocurra el congelamiento del suelo puede permitir a las organizaciones y autoridades tomar medidas preventivas y preparativas, mitigando así los posibles efectos negativos.
 
+
+**[⬆ Volver al Indice](#Indice)**
+
 ------------
 
-# Preguntas de Investigación:
------------
+# Preguntas:
+
 1. ¿Cuáles son las variables meteorológicas más relevantes para predecir el congelamiento del suelo?
 2. ¿Qué características del suelo influyen en su propensión al congelamiento?
 3. ¿Existen patrones estacionales o temporales en la ocurrencia del congelamiento del suelo?
@@ -48,9 +50,11 @@ El congelamiento del suelo es un fenómeno climático que puede tener impactos s
 
 Estas preguntas de investigación guiarán el desarrollo del proyecto de aprendizaje automático y ayudarán a identificar los factores clave que influyen en el congelamiento del suelo, así como la mejor manera de abordar el problema utilizando técnicas de aprendizaje automático.
 
-------------
+
+**[⬆ Volver al Indice](#Indice)**
+
+----------------
 # Metodología:
------------
 
 El proyecto seguirá los siguientes pasos:
 1. Recopilación de Datos: Se recopilarán datos históricos de variables meteorológicas (como temperatura, humedad, precipitación, etc.) y características del suelo de una o varias ubicaciones relevantes.
@@ -60,17 +64,16 @@ El proyecto seguirá los siguientes pasos:
 5. Evaluación del Modelo: Se evaluará el rendimiento de los modelos utilizando métricas adecuadas, como precisión, sensibilidad y especificidad, utilizando conjuntos de datos de prueba.
 6. Optimización y Ajuste del Modelo: Se realizarán ajustes en los hiperparámetros y la arquitectura del modelo para mejorar su rendimiento.
 7. Despliegue y Monitoreo: Una vez que se haya seleccionado el modelo final, se implementará en un entorno de producción y se monitoreará su rendimiento continuamente para realizar ajustes según sea necesario.
-   
+
+**[⬆ Volver al Indice](#Indice)**
+
 -----------------------
-# Conclusiones Esperadas:
------------------------
+# Conclusiones:
 
 Se espera que este proyecto proporcione un modelo de aprendizaje automático efectivo y preciso para predecir el congelamiento del suelo, lo que podría tener importantes implicaciones en la planificación y toma de decisiones en una variedad de sectores. Además, se espera que este proyecto contribuya al conocimiento científico sobre los factores que influyen en el congelamiento del suelo y su predicción.
 
 
-# Tabla de contenidos 💡
-
-------------------------
+# Indice 💡
 
 - [Objetivo del Proyecto](#Objetivo)
 - [Contexto y Relevancia](#Contexto)
