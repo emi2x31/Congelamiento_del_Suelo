@@ -59,10 +59,11 @@ Para preparar este dataset para un proyecto de aprendizaje automático, se podr�
   2.	__Conversión de Tipos de Datos:__ Asegurar que todos los datos están en el formato correcto.
   3.	__Normalización/Estandarización:__ Dependiendo del algoritmo a utilizar, podría ser necesario normalizar o estandarizar los datos.
   4.	__Generación de Nuevas Características:__ Crear características adicionales como promedios móviles o variaciones diarias.
+     
 
-**[⬆ Volver al Indice](https://github.com/emi2x31/Congelamiento_del_Suelo)**
+  **[⬆ Volver al Indice](https://github.com/emi2x31/Congelamiento_del_Suelo/#Indice)**
 
-**[⬆ Volver al Índice](./README.md#indice)**
+
 
 
 -----------
