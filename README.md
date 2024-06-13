@@ -19,8 +19,22 @@ Autor: ORTEGA, Emilio
 •	Defina claramente las preguntas de investigación o hipótesis que desea responder a través del aprendizaje automático.
 
 
-Tema: Predecir si el suelo está por congelarse
-------------
+# Indice 💡
+
+- [Objetivo del Proyecto](#Objetivo)
+- [Contexto y Relevancia](#Contexto)
+- [Preguntas de Investigación](#Preguntas)
+- [Metodología](#Metodología)
+- [Conclusiones Esperadas](#Conclusiones) 
+- [Descripción sobre origen y tipo de datos](./docs/Descripcion%20de%20los%20Datos.md)
+- [Colab del trabajo final](/notebooks/Trabajo_final_Aprendizaje_Automatico.ipynb)
+- [Dataset Utilizados](https://github.com/emi2x31/Congelamiento_del_Suelo/tree/main/data/external)
+- [GitHub Congelamiento del Suelo](https://github.com/emi2x31/Congelamiento_del_Suelo)
+- [Libre)](https://github.com/cookiecutter/cookiecutter/blob/main/LICENSE)
+- [libre](./docs/Descripcion%20de%20los%20Datos.md)
+- [!Informe Final del trabajo](/docs/info_final.rst)
+
+
 
 # Objetivo:
 -------------
@@ -73,20 +87,6 @@ El proyecto seguirá los siguientes pasos:
 Se espera que este proyecto proporcione un modelo de aprendizaje automático efectivo y preciso para predecir el congelamiento del suelo, lo que podría tener importantes implicaciones en la planificación y toma de decisiones en una variedad de sectores. Además, se espera que este proyecto contribuya al conocimiento científico sobre los factores que influyen en el congelamiento del suelo y su predicción.
 
 
-# Indice 💡
-
-- [Objetivo del Proyecto](#Objetivo)
-- [Contexto y Relevancia](#Contexto)
-- [Preguntas de Investigación](#Preguntas)
-- [Metodología](#Metodología)
-- [Conclusiones Esperadas](#Conclusiones) 
-- [Descripción sobre origen y tipo de datos](./docs/Descripcion%20de%20los%20Datos.md)
-- [Colab del trabajo final](/notebooks/Trabajo_final_Aprendizaje_Automatico.ipynb)
-- [Dataset Utilizados](https://github.com/emi2x31/Congelamiento_del_Suelo/tree/main/data/external)
-- [GitHub Congelamiento del Suelo](https://github.com/emi2x31/Congelamiento_del_Suelo)
-- [Libre)](https://github.com/cookiecutter/cookiecutter/blob/main/LICENSE)
-- [libre](./docs/Descripcion%20de%20los%20Datos.md)
-- [!Informe Final del trabajo](/docs/info_final.rst)
 
 
 ------------
