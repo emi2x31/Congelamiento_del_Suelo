@@ -24,19 +24,21 @@ Descripción y Formulación del Objetivo
 Tema: Predecir si el suelo está por congelarse
 ------------
 
-Objetivo del Proyecto:
+# Objetivo del Proyecto:
 -------------
 El objetivo principal de este proyecto es desarrollar un modelo de aprendizaje automático capaz de predecir si el suelo está por congelarse en una ubicación específica. Este modelo será entrenado utilizando datos históricos de variables meteorológicas y condiciones del suelo para identificar patrones y características asociadas con el congelamiento del suelo.
 
+
+**[⬆ Volver a la Tabla de contenidos](#Tabla)**
 ------------
 
-Contexto y Relevancia:
+# Contexto y Relevancia:
 -----------
 El congelamiento del suelo es un fenómeno climático que puede tener impactos significativos en diversas industrias y sectores, incluyendo la agricultura, la construcción, el transporte y la seguridad pública. Poder predecir con anticipación cuándo es probable que ocurra el congelamiento del suelo puede permitir a las organizaciones y autoridades tomar medidas preventivas y preparativas, mitigando así los posibles efectos negativos.
 
 ------------
 
-Preguntas de Investigación:
+# Preguntas de Investigación:
 -----------
 1. ¿Cuáles son las variables meteorológicas más relevantes para predecir el congelamiento del suelo?
 2. ¿Qué características del suelo influyen en su propensión al congelamiento?
@@ -47,7 +49,7 @@ Preguntas de Investigación:
 Estas preguntas de investigación guiarán el desarrollo del proyecto de aprendizaje automático y ayudarán a identificar los factores clave que influyen en el congelamiento del suelo, así como la mejor manera de abordar el problema utilizando técnicas de aprendizaje automático.
 
 ------------
-Metodología:
+# Metodología:
 -----------
 
 El proyecto seguirá los siguientes pasos:
@@ -59,16 +61,26 @@ El proyecto seguirá los siguientes pasos:
 6. Optimización y Ajuste del Modelo: Se realizarán ajustes en los hiperparámetros y la arquitectura del modelo para mejorar su rendimiento.
 7. Despliegue y Monitoreo: Una vez que se haya seleccionado el modelo final, se implementará en un entorno de producción y se monitoreará su rendimiento continuamente para realizar ajustes según sea necesario.
    
-Conclusiones Esperadas:
+-----------------------
+# Conclusiones Esperadas:
+-----------------------
+
 Se espera que este proyecto proporcione un modelo de aprendizaje automático efectivo y preciso para predecir el congelamiento del suelo, lo que podría tener importantes implicaciones en la planificación y toma de decisiones en una variedad de sectores. Además, se espera que este proyecto contribuya al conocimiento científico sobre los factores que influyen en el congelamiento del suelo y su predicción.
 
 
-# Ayuda
+# Tabla de contenidos 💡
 
-- [Descripción sobre origen y tipo de Datos](./docs/Descripcion%20de%20los%20Datos.md)
-- [GitHub Congelamiento del Suelo](https://github.com/emi2x31/Congelamiento_del_Suelo)
+------------------------
+
+- [Objetivo del Proyecto](#Objetivo)
+- [Contexto y Relevancia](#Contexto)
+- [Preguntas de Investigación](#Preguntas)
+- [Metodología](#Metodología)
+- [Conclusiones Esperadas](#Conclusiones) 
+- [Descripción sobre origen y tipo de datos](./docs/Descripcion%20de%20los%20Datos.md)
 - [Colab del trabajo final](/notebooks/Trabajo_final_Aprendizaje_Automatico.ipynb)
 - [Dataset Utilizados](https://github.com/emi2x31/Congelamiento_del_Suelo/tree/main/data/external)
+- [GitHub Congelamiento del Suelo](https://github.com/emi2x31/Congelamiento_del_Suelo)
 - [Libre)](https://github.com/cookiecutter/cookiecutter/blob/main/LICENSE)
 - [libre](./docs/Descripcion%20de%20los%20Datos.md)
 - [!Informe Final del trabajo](/docs/info_final.rst)
