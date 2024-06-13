@@ -62,38 +62,25 @@ El proyecto seguirá los siguientes pasos:
 Conclusiones Esperadas:
 Se espera que este proyecto proporcione un modelo de aprendizaje automático efectivo y preciso para predecir el congelamiento del suelo, lo que podría tener importantes implicaciones en la planificación y toma de decisiones en una variedad de sectores. Además, se espera que este proyecto contribuya al conocimiento científico sobre los factores que influyen en el congelamiento del suelo y su predicción.
 
-[!Colab del trabajo final](/notebooks/Trabajo_final_Aprendizaje_Automatico.ipynb)
 
-[!Note](/docs/info_final.rst)
-[!Tip](/docs/info_final.rst)
-[!Important](/docs/info_final.rst)
 
-[!Warning](/docs/info_final.rst)
 
-[Descripción sobre origen y tipo de Datos](./docs/Descripcion%20de%20los%20Datos.md)
 
-[!Informe Final del trabajo](/docs/info_final.rst)
 
 
 <a href="./docs/Descripcion%20de%20los%20Datos.md" style="display:inline-block;background-color:#4CAF50;color:white;padding:10px 20px;text-align:center;text-decoration:none;border-radius:5px;">Descripción sobre origen y tipo de Datos</a>
 
-### [Descripción sobre origen y tipo de Datos](./docs/Descripcion%20de%20los%20Datos.md) ==> [![Descripción sobre origen y tipo de Datos](https://github.com/emi2x31/Congelamiento_del_Suelo/blob/main/reports/figures/imagen5.png)](./docs/Descripcion%20de%20los%20Datos.md)
 
+# Cookiecutte
 
-<div style="text-align:center;">
-    <a href="./docs/Descripcion%20de%20los%20Datos.md" style="font-size:18px;color:#4CAF50;text-decoration:none;">Descripción sobre origen y tipo de Datos</a>
-</div>
+- [Documentation](./docs/Descripcion%20de%20los%20Datos.md)
+- [GitHub Congelamiento del Suelo](https://github.com/emi2x31/Congelamiento_del_Suelo)
+- [Colab del trabajo final](/notebooks/Trabajo_final_Aprendizaje_Automatico.ipynb)
+- [Dataset](https://pypi.org/project/cookiecutter/)
+- [License (BSD)](https://github.com/cookiecutter/cookiecutter/blob/main/LICENSE)
+- [Descripción sobre origen y tipo de Datos](./docs/Descripcion%20de%20los%20Datos.md)
+  [!Informe Final del trabajo](/docs/info_final.rst)
 
-
-Here's our logo (hover to see the title text):
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 ------------
 Project Structure
