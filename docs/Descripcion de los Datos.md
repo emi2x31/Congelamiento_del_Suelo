@@ -1,6 +1,21 @@
 
 DESCRIPCION DEL CONJUNTO DE DATOS
 ------------
+
+Origen del Dataset
+-----------------
+   •	__Centro de Información Meteorológica (CIM).__
+
+   •	__Fuente:__ Servicio Meteorológico Nacional.
+
+   •	__Fecha de Adquisición:__ 3 de junio de 2024.
+
+   •	__Recopilación:__ Los datos fueron enviados por Nadia Cieslinski.
+
+   •	__Política de Datos:__ Comprendidos dentro de la Política de Datos Públicos, por lo que son gratuitos.
+
+   •	__Nota:__ La información básica en el archivo puede sufrir variaciones debido a procesos de consistencia y depuración.
+
 ------------
 Descripción del Dataset
 ------------
@@ -36,21 +51,6 @@ Información Relevante Adicional
 
 ----------------
 
-Origen del Dataset
------------------
-   •	__Centro de Información Meteorológica (CIM).__
-
-   •	__Fuente:__ Servicio Meteorológico Nacional.
-
-   •	__Fecha de Adquisición:__ 3 de junio de 2024.
-
-   •	__Recopilación:__ Los datos fueron enviados por Nadia Cieslinski.
-
-   •	__Política de Datos:__ Comprendidos dentro de la Política de Datos Públicos, por lo que son gratuitos.
-
-   •	__Nota:__ La información básica en el archivo puede sufrir variaciones debido a procesos de consistencia y depuración.
-
------------------
 Procesos de Preprocesamiento
 ----------------
 
