@@ -10,13 +10,6 @@ Autor: ORTEGA, Emilio
 
 --------------
 
-•	Proporcionar una descripción detallada de su proyecto de Aprendizaje Automático.  Sobre el Tema: Predecir si el suelo está por congelarse.
-
-•	Formular claramente el objetivo del trabajo, indicando qué problema específico de su interés abordará con el modelo.
-
-•	Proporcionar detalles sobre el contexto en el que se encuentra el problema y por qué es relevante.
-
-•	Defina claramente las preguntas de investigación o hipótesis que desea responder a través del aprendizaje automático.
 
 💡
 
@@ -31,9 +24,8 @@ Autor: ORTEGA, Emilio
 - [Colab del trabajo final](/notebooks/Trabajo_final_Aprendizaje_Automatico.ipynb)
 - [Dataset Utilizados](https://github.com/emi2x31/Congelamiento_del_Suelo/tree/main/data/external)
 - [GitHub Congelamiento del Suelo](https://github.com/emi2x31/Congelamiento_del_Suelo)
-- [Libre)](https://github.com/cookiecutter/cookiecutter/blob/main/LICENSE)
-- [libre](./docs/Descripcion%20de%20los%20Datos.md)
-- [!Informe Final del trabajo](/docs/info_final.rst)
+- [libre]()
+- [Libre]()
 
 
 
