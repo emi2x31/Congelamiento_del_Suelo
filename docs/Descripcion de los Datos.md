@@ -1,5 +1,5 @@
 
-![Congelamiento del Suelo](https://github.com/emi2x31/Congelamiento_del_Suelo/blob/main/reports/figures/calles%20congeladas2.jpg)
+![Descripcion de Datatos](https://github.com/emi2x31/Congelamiento_del_Suelo/blob/main/reports/figures/setdedatos.jpg)
 
 DESCRIPCION DEL CONJUNTO DE DATOS
 ------------
