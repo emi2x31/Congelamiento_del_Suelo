@@ -1,7 +1,7 @@
 ![Congelamiento del Suelo](https://github.com/emi2x31/Congelamiento_del_Suelo/blob/main/reports/figures/calles%20congeladas2.jpg)
 
 
-Predecir si el suelo está por congelarse en Ushuaia, Tierra del Fuego, Argentina
+CONGELAMIENTO DEL SUELO - USHUAIA-TIERRA DEL FUEGO - ARGENTINA
 ---------
 ---------------
 Bloque: Aprendizaje Automatico
@@ -21,7 +21,7 @@ Autor: ORTEGA, Emilio
 - [Metodología](#Metodología)
 - [Conclusiones Esperadas](#Conclusiones) 
 - [Descripción sobre origen y tipo de datos](./docs/Descripcion%20de%20los%20Datos.md)
-- [Colab del trabajo final](/notebooks/Trabajo_final_Aprendizaje_Automatico.ipynb)
+- [Colab del trabajo final]()
 - [Dataset Utilizados](https://github.com/emi2x31/Congelamiento_del_Suelo/tree/main/data/external)
 - [GitHub Congelamiento del Suelo](https://github.com/emi2x31/Congelamiento_del_Suelo)
 - [libre]()
