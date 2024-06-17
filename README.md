@@ -24,8 +24,7 @@ Autor: ORTEGA, Emilio
 - [Colab del trabajo final]()
 - [Dataset Utilizados](https://github.com/emi2x31/Congelamiento_del_Suelo/tree/main/data/external)
 - [GitHub Congelamiento del Suelo](https://github.com/emi2x31/Congelamiento_del_Suelo)
-- [libre]()
-- [Libre]()
+
 
 
 
