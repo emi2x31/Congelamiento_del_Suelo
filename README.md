@@ -21,7 +21,7 @@ Autor: ORTEGA, Emilio
 - [Metodología](#Metodología)
 - [Conclusiones Esperadas](#Conclusiones) 
 - [Descripción sobre origen y tipo de datos](./docs/Descripcion%20de%20los%20Datos.md)
-- [Colab del trabajo final]()
+- [Notebook del trabajo final](./notebooks/Version3_PredecirCongelamientodelSuelo.ipynb)
 - [Dataset Utilizados](https://github.com/emi2x31/Congelamiento_del_Suelo/tree/main/data/external)
 - [GitHub Congelamiento del Suelo](https://github.com/emi2x31/Congelamiento_del_Suelo)
 
