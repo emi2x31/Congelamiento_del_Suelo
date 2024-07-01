@@ -23,7 +23,6 @@ Autor: ORTEGA, Emilio
 - [Descripción sobre origen y tipo de datos](./docs/Descripcion%20de%20los%20Datos.md)
 - [Notebook del trabajo final](./notebooks/Version3_PredecirCongelamientodelSuelo.ipynb)
 - [Dataset Utilizados](https://github.com/emi2x31/Congelamiento_del_Suelo/tree/main/data/external)
-- [Modelo y Análisis de Resultados](https://github.com/emi2x31/Congelamiento_del_Suelo/blob/main/reports/Reporte%20de%20Resultados.md)
 - [Modelo y Analisis de Resulatados](./reports/Reporte%20de%20Resultados.md)
 
 
@@ -58,6 +57,8 @@ El congelamiento del suelo es un fenómeno climático que puede tener impactos s
 
 Estas preguntas de investigación guiarán el desarrollo del proyecto de aprendizaje automático y ayudarán a identificar los factores clave que influyen en el congelamiento del suelo, así como la mejor manera de abordar el problema utilizando técnicas de aprendizaje automático.
 
+Las respuestas a estas preguntas se pueden encontrar al final del notebook presentado siga el link  ==> [Notebook del trabajo final](./notebooks/Version3_PredecirCongelamientodelSuelo.ipynb)
+
 
 **[⬆ Volver al Indice](#Indice)**
 
@@ -79,6 +80,8 @@ El proyecto seguirá los siguientes pasos:
 # Conclusiones:
 
 Se espera que este proyecto proporcione un modelo de aprendizaje automático efectivo y preciso para predecir el congelamiento del suelo, lo que podría tener importantes implicaciones en la planificación y toma de decisiones en una variedad de sectores. Además, se espera que este proyecto contribuya al conocimiento científico sobre los factores que influyen en el congelamiento del suelo y su predicción.
+
+Las conclusiones obtenidas se pueden encontrar en el siguiente link ==> [Modelo y Analisis de Resulatados](./reports/Reporte%20de%20Resultados.md)
 
 
 **[⬆ Volver al Indice](#Indice)**
