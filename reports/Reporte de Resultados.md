@@ -1,8 +1,5 @@
+![Presentacion_del_modelo](https://github.com/emi2x31/Congelamiento_del_Suelo/blob/main/reports/figures/analisis_de_resulatdos1.png)
 
-![Descripcion de Datatos](https://github.com/emi2x31/Congelamiento_del_Suelo/blob/main/reports/figures/setdedatos.jpg)
-
-PRESENTACION DEL MODELO Y ANALISIS DE RESULTADOS
-------------
 
 1.	Presentar  modelo de Aprendizaje Automático y los resultados obtenidos.
 2.	Describa los orígenes de datos nuevamente para recordar a la audiencia.
@@ -12,22 +9,21 @@ PRESENTACION DEL MODELO Y ANALISIS DE RESULTADOS
 6.	Proporcione métricas de evaluación del modelo, como precisión, recall, F1-score, y cualquier otra métrica relevante.
 7.	Interprete los resultados del modelo y ofrezca conclusiones finales sobre cómo su modelo abordó el problema formulado en la primera entrega.
 
-------------
-RESPUESTAS
-------------
 
 
-1. Presentar el modelo de Aprendizaje Automático y los resultados obtenidos
-------------
+1  Presentar el modelo de Aprendizaje Automático y los resultados obtenidos
+---------------
+
 El modelo desarrollado es un RandomForestClassifier, el cual es un algoritmo de aprendizaje supervisado utilizado para clasificación. Este modelo fue entrenado con los datos de características como temperatura, humedad relativa, precipitación, entre otras. Los resultados del modelo muestran una precisión adecuada para predecir si el suelo está congelado o no.
 
 
-2. Describir los orígenes de datos
+2  Describir los orígenes de datos
 -----------------
+
 Los datos utilizados provienen de un archivo de Excel llamado `USHUAIAAERO.xlsx`, el cual contiene información meteorológica diaria de Ushuaia. Las columnas incluyen medidas como la temperatura en grados Celsius, la humedad relativa y la precipitación en milímetros. Estos datos fueron utilizados para calcular varias características adicionales, como la temperatura mínima en una ventana de tres días, los días consecutivos bajo cero y los eventos de heladas.
 
 
-3. Análisis exploratorio de datos (EDA)
+3  Análisis exploratorio de datos (EDA)
 --------------
 
 El análisis exploratorio de datos incluyó la generación de estadísticas descriptivas y varios gráficos. Las estadísticas descriptivas proporcionaron un resumen de las principales medidas centralizadas y de dispersión. Los gráficos generados incluyen:
@@ -36,15 +32,15 @@ El análisis exploratorio de datos incluyó la generación de estadísticas desc
 - Gráficos de barras mostrando la ocurrencia de congelamiento del suelo por mes y por año.
 
 
-4. Conclusiones clave derivadas del análisis exploratorio
----------------
+4  Conclusiones clave derivadas del análisis exploratorio
+-----------------
 
 Del análisis exploratorio se derivaron varias conclusiones clave:
 - La temperatura muestra una alta variabilidad diaria.
 - La mayoría de los eventos de suelo congelado ocurren durante los meses de invierno, como se observó en la distribución mensual de los datos.
 
 
-5. Detalle del modelo de Aprendizaje Automático
+5  Detalle del modelo de Aprendizaje Automático
 -----------------
 
 El modelo utilizado es un RandomForestClassifier con 100 árboles y una semilla aleatoria para reproducibilidad. Este modelo se seleccionó por su capacidad para manejar conjuntos de datos con múltiples características y su eficacia en tareas de clasificación. Se entrenó utilizando las características seleccionadas y se evaluó mediante técnicas de validación cruzada para asegurar su robustez.
@@ -67,7 +63,7 @@ Explicación:
 En este caso, el promedio de los puntajes de validación cruzada es aproximadamente 0.99976, lo cual indica que el modelo tiene una alta precisión y generaliza bien a datos que no ha visto durante el entrenamiento. Esto sugiere que el modelo es robusto y efectivo para realizar predicciones precisas sobre si el suelo está congelado o no en condiciones similares a las del conjunto de datos utilizado.
 
 
-6. Proporcionar métricas de evaluación del modelo
+6  Proporcionar métricas de evaluación del modelo
 ------------------
 
 Las métricas de evaluación incluyeron:
@@ -82,6 +78,7 @@ Evaluación del Modelo
 
 Interpretación de Resultados del Modelo de Aprendizaje Automático
 -------------
+
 Precisión del Modelo
 Accuracy: 0.9995
   - La precisión del modelo es extremadamente alta, alcanzando casi el 100%. Esto indica que el modelo clasifica correctamente la gran mayoría de los casos, tanto de suelo congelado como no congelado.
@@ -112,15 +109,18 @@ Clase False (suelo no congelado)
   - Recall: 1.00
   - F1-Score: 1.00
   - El promedio ponderado toma en cuenta la cantidad de casos en cada clase, reflejando el alto rendimiento del modelo en general.
-  - 
- Conclusiones
+   
+
+Conclusion
+-------------
+
 1. Precisión Excepcional: La precisión del modelo es casi perfecta, lo que sugiere que el modelo es altamente confiable para predecir si el suelo está congelado o no.
 2. Desempeño Equilibrado: Aunque el modelo muestra una ligera diferencia en precisión entre las clases, el rendimiento es muy alto para ambas, lo que es crucial en aplicaciones prácticas.
 3. Utilidad en la Práctica: Con un recall del 100% para la clase de suelo congelado, el modelo no omite ningún caso de suelo congelado, lo cual es vital para prevenir posibles daños o problemas relacionados con el suelo congelado.
 E modelo RandomForestClassifier desarrollado ha demostrado ser extremadamente efectivo para predecir el estado del suelo en términos de congelamiento, lo que lo hace una herramienta valiosa para aplicaciones en el monitoreo y gestión de suelos en climas fríos como Ushuaia.
 
 
-7. Interpretar los resultados del modelo
+7  Interpretar los resultados del modelo
 ---------------
 
 Los resultados del modelo indican una buena precisión general para predecir si el suelo está congelado. La evaluación de la importancia de las características reveló que las características más relevantes son la temperatura mínima, los días consecutivos bajo cero y la humedad relativa. Estas características influyen significativamente en la predicción del suelo congelado, lo cual es consistente con la lógica meteorológica. Las predicciones y evaluaciones sugieren que el modelo es adecuado para abordar el problema de predicción del suelo congelado en Ushuaia.
