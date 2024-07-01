@@ -51,7 +51,9 @@ Entrenar el modelo utilizando el conjunto de entrenamiento.
 ![image](https://github.com/emi2x31/Congelamiento_del_Suelo/assets/143364681/a40325b7-473f-4187-945e-36da62658493)
 
 El RandomForestClassifier utilizado en el entrenamiento emplea múltiples árboles de decisión y utiliza una semilla aleatoria específica (42 en este caso) para garantizar la reproducibilidad de los resultados durante el entrenamiento y la evaluación del modelo.
+
 Validación Cruzada
+-----------
 Realizar validación cruzada para asegurar que el modelo generaliza bien a datos no vistos
 
 ![image](https://github.com/emi2x31/Congelamiento_del_Suelo/assets/143364681/ff667081-d215-4801-9d50-7d6a2cc24c19)
