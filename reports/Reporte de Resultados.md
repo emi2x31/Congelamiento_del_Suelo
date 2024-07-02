@@ -1,4 +1,4 @@
-![Presentacion_del_modelo](https://github.com/emi2x31/Congelamiento_del_Suelo/blob/main/reports/figures/analisis_de_resulatdos1.png)
+![Presentacion_del_modelo](https://github.com/emi2x31/Congelamiento_del_Suelo/blob/main/reports/figures/analisis_de_resultados1.png)
 
 
 1.	Presentar  modelo de Aprendizaje Automático y los resultados obtenidos.
