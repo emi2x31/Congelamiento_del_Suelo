@@ -15,6 +15,7 @@ Autor: ORTEGA, Emilio
 
 # Indice
 
+- [Informe del Proyecto](#Informe)
 - [Objetivo del Proyecto](#Objetivo)
 - [Contexto y Relevancia](#Contexto)
 - [Preguntas de Investigación](#Preguntas)
@@ -25,7 +26,12 @@ Autor: ORTEGA, Emilio
 - [Dataset Utilizados](https://github.com/emi2x31/Congelamiento_del_Suelo/tree/main/data/external)
 - [Modelo y Analisis de Resulatados](./reports/Reporte%20de%20Resultados.md)
 
+# Informe:
+-------------
 
+Este informe presenta un modelo de aprendizaje automático diseñado para predecir la congelación de las rutas en ubicaciones específicas. Se recopilaron y preprocesaron datos históricos sobre variables meteorológicas y condiciones de las rutas para identificar patrones asociados con el congelamiento de las mismas. Se aplicaron técnicas de selección de características para identificar predictores relevantes, los cuales fueron utilizados para entrenar y evaluar varios algoritmos de aprendizaje automático, incluidos métodos de regresión y árboles de decisión. El rendimiento de estos algoritmos se evaluó utilizando métricas como precisión, sensibilidad y especificidad. El modelo seleccionado se optimizó para mejorar su rendimiento y se desplegó para monitoreo y ajuste en tiempo real. Los resultados demuestran la efectividad del modelo en predecir la formación de hielo en las rutas, proporcionando conocimientos valiosos para la toma de decisiones en diversos sectores, como la seguridad vial y la construcción. Esta investigación contribuye a comprender los factores que influyen en el congelamiento de las rutas y mejora las capacidades predictivas en campos relacionados.
+
+**[⬆ Volver al Indice](#Indice)**
 
 
 
