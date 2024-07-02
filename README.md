@@ -20,11 +20,11 @@ Autor: ORTEGA, Emilio
 - [Contexto y Relevancia](#Contexto)
 - [Preguntas de Investigación](#Preguntas)
 - [Metodología](#Metodología)
-- [Conclusiones Esperadas](#Conclusiones) 
+- [Conclusiones Esperadas](#Conclusiones)
+- [Dataset Utilizados](https://github.com/emi2x31/Congelamiento_del_Suelo/tree/main/data/external)
 - [Descripción sobre origen y tipo de datos](./docs/Descripcion%20de%20los%20Datos.md)
 - [Notebook del trabajo final](./notebooks/Version3_PredecirCongelamientodelSuelo.ipynb)
-- [Dataset Utilizados](https://github.com/emi2x31/Congelamiento_del_Suelo/tree/main/data/external)
-- [Modelo y Analisis de Resulatados](./reports/Reporte%20de%20Resultados.md)
+- [Modelo y Analisis de Resultados](./reports/Reporte%20de%20Resultados.md)
 
 
 
