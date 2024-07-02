@@ -44,7 +44,9 @@ Del análisis exploratorio se derivaron varias conclusiones clave:
 -----------------
 
 El modelo utilizado es un RandomForestClassifier con 100 árboles y una semilla aleatoria para reproducibilidad. Este modelo se seleccionó por su capacidad para manejar conjuntos de datos con múltiples características y su eficacia en tareas de clasificación. Se entrenó utilizando las características seleccionadas y se evaluó mediante técnicas de validación cruzada para asegurar su robustez.
+
 Entrenamiento del Modelo
+
 Entrenar el modelo utilizando el conjunto de entrenamiento.
 
 ![image](https://github.com/emi2x31/Congelamiento_del_Suelo/assets/143364681/5da16871-c840-479b-92a9-7b92080abc12)
