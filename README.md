@@ -26,8 +26,12 @@ Autor: ORTEGA, Emilio
 - [Dataset Utilizados](https://github.com/emi2x31/Congelamiento_del_Suelo/tree/main/data/external)
 - [Modelo y Analisis de Resulatados](./reports/Reporte%20de%20Resultados.md)
 
-# Informe:
+
+
+
+
 -------------
+# Informe:
 
 Este informe presenta un modelo de aprendizaje automático diseñado para predecir la congelación de las rutas en ubicaciones específicas. Se recopilaron y preprocesaron datos históricos sobre variables meteorológicas y condiciones de las rutas para identificar patrones asociados con el congelamiento de las mismas. Se aplicaron técnicas de selección de características para identificar predictores relevantes, los cuales fueron utilizados para entrenar y evaluar varios algoritmos de aprendizaje automático, incluidos métodos de regresión y árboles de decisión. El rendimiento de estos algoritmos se evaluó utilizando métricas como precisión, sensibilidad y especificidad. El modelo seleccionado se optimizó para mejorar su rendimiento y se desplegó para monitoreo y ajuste en tiempo real. Los resultados demuestran la efectividad del modelo en predecir la formación de hielo en las rutas, proporcionando conocimientos valiosos para la toma de decisiones en diversos sectores, como la seguridad vial y la construcción. Esta investigación contribuye a comprender los factores que influyen en el congelamiento de las rutas y mejora las capacidades predictivas en campos relacionados.
 
@@ -35,24 +39,27 @@ Este informe presenta un modelo de aprendizaje automático diseñado para predec
 
 
 
-# Objetivo:
 -------------
+# Objetivo:
+
 El objetivo principal de este proyecto es desarrollar un modelo de aprendizaje automático capaz de predecir si el suelo está por congelarse en una ubicación específica. Este modelo será entrenado utilizando datos históricos de variables meteorológicas y condiciones del suelo para identificar patrones y características asociadas con el congelamiento del suelo.
 
 
 **[⬆ Volver al Indice](#Indice)**
 
-------------
 
+
+----------------
 # Contexto:
------------
+
 El congelamiento del suelo es un fenómeno climático que puede tener impactos significativos en diversas industrias y sectores, incluyendo la agricultura, la construcción, el transporte y la seguridad pública. Poder predecir con anticipación cuándo es probable que ocurra el congelamiento del suelo puede permitir a las organizaciones y autoridades tomar medidas preventivas y preparativas, mitigando así los posibles efectos negativos.
 
 
 **[⬆ Volver al Indice](#Indice)**
 
-------------
 
+
+------------
 # Preguntas:
 
 1. ¿Cuáles son las variables meteorológicas más relevantes para predecir el congelamiento del suelo?
@@ -68,6 +75,8 @@ Las respuestas a estas preguntas se pueden encontrar al final del notebook prese
 
 **[⬆ Volver al Indice](#Indice)**
 
+
+
 ----------------
 # Metodología:
 
@@ -82,6 +91,8 @@ El proyecto seguirá los siguientes pasos:
 
 **[⬆ Volver al Indice](#Indice)**
 
+
+
 -----------------------
 # Conclusiones:
 
@@ -91,6 +102,8 @@ Las conclusiones obtenidas se pueden encontrar en el siguiente link ==> [Modelo 
 
 
 **[⬆ Volver al Indice](#Indice)**
+
+
 
 
 ------------
