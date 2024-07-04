@@ -121,7 +121,7 @@ Conclusion
 1. Precisión Excepcional: La precisión del modelo es casi perfecta, lo que sugiere que el modelo es altamente confiable para predecir si el suelo está congelado o no.
 2. Desempeño Equilibrado: Aunque el modelo muestra una ligera diferencia en precisión entre las clases, el rendimiento es muy alto para ambas, lo que es crucial en aplicaciones prácticas.
 3. Utilidad en la Práctica: Con un recall del 100% para la clase de suelo congelado, el modelo no omite ningún caso de suelo congelado, lo cual es vital para prevenir posibles daños o problemas relacionados con el suelo congelado.
-E modelo RandomForestClassifier desarrollado ha demostrado ser extremadamente efectivo para predecir el estado del suelo en términos de congelamiento, lo que lo hace una herramienta valiosa para aplicaciones en el monitoreo y gestión de suelos en climas fríos como Ushuaia.
+El modelo RandomForestClassifier desarrollado ha demostrado ser extremadamente efectivo para predecir el estado del suelo en términos de congelamiento, lo que lo hace una herramienta valiosa para aplicaciones en el monitoreo y gestión de suelos en climas fríos como Ushuaia.
 
 
 7  Interpretar los resultados del modelo
