@@ -26,6 +26,8 @@ Autor: ORTEGA, Emilio
 - [Notebook del trabajo final_rutarelativa](./notebooks/Version3_PredecirCongelamientodelSuelo.ipynb)
 - [Notebook del trabajo final_ruta_drive](./notebooks/Version3.1_PredecirCongelamientodelSuelo.ipynb)
 - [Modelo y Analisis de Resultados](./reports/Reporte%20de%20Resultados.md)
+- [Video explicativo del proyecto](/references/Emilio_ORTEGA_Congelamiento_del_Suelo_31_07_24_Aprendizaje_automatico.mp4)
+  
 
 
 
